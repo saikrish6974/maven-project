@@ -4,4 +4,4 @@ testing again
 randmon comments
 */
 
-package.com example;
+package com.example;
